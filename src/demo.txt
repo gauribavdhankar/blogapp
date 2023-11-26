@@ -1,0 +1,21 @@
+/src
+  /components
+    BlogList.js
+    BlogForm.js
+    Pagination.js
+    // other components
+  /hooks //2nd 
+    useApi.js
+    // other custom hooks
+  /pages
+    Home.js
+    CreatePost.js
+    UpdatePost.js
+    // other pages
+  /services //1st create
+    api.js
+  /styles
+    // styled components
+  App.js
+  index.js
+  // other necessary files
